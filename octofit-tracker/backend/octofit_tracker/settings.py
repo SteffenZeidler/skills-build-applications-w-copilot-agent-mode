@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-ghi-$n$!syom(l8+uixwy4bt&k5n2i&+59sdm8p^%n*t$0gqv=
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'refactored-space-doodle-6rrxjgxrxq4h5g6x-8000.app.github.dev']
 
 
 # Application definition
